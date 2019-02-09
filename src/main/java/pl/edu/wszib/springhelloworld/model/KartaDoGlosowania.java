@@ -5,6 +5,7 @@ public class KartaDoGlosowania {
     private Glos glos;
 
     public void zaznacz(Glos glos) {
+
         this.glos = glos;
     }
 
